@@ -1,0 +1,18 @@
+# Site settings
+title: 阿长的个人小站
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  其实这里并不是什么wiki，只是纯粹用来储存一些关于minecraft整合包的内容，包括已经发布的作品，视频实况，魔改力量收藏以及正在制作的整合的工程计划和日志
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://iamachang.github.io" # the base hostname & protocol for your site
+twitter_username: IamAchang
+github_username:  IamAchang
+
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: IamAchang
+
+gems: [jekyll-paginate]
